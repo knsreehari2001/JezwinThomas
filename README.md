@@ -7,15 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/achyuthmohan2" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthmohan2?logo=twitter&style=for-the-badge" alt="achyuthmohan2" /></a> </p>
 
-- 🌱 I’m currently learning **R, react**
 
-- 👨‍💻 All of my projects are available at [https://achyuthmohan.me/](https://achyuthmohan.me/)
-
-- 💬 Ask me about **Bootstrap, JavaScript,Python**
-
-- 📫 How to reach me **achyuthmohan1@gmail.com**
-
-- ⚡ Fun fact **Like everyone I too use Google for coding😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
