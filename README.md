@@ -8,4 +8,4 @@
 
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adamsyy&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JezwinThomas&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
