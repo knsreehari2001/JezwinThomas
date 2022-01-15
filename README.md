@@ -5,7 +5,7 @@
 <br>
 
 ###  I am currently learning embedded systems
-###  I like graphic designing and maybe oneday made this readme look good😖
+###  I like graphic designing and maybe one day made this readme look good😖
 ###  I am also learning Unity Game engine
 
 
