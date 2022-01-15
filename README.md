@@ -5,6 +5,7 @@
 <br>
 
 ###  I am currently learning embedded systems
+###  I like graphic designing
 ###  I am also learning Unity Game engine
 
 
