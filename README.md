@@ -30,4 +30,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JezwinThomas&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JezwinThomas&theme=tokyonight" />
 </p>
+<br>
+<hr>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JezwinThomas&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
