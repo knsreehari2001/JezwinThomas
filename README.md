@@ -1,13 +1,13 @@
 ![jeswin banner](https://user-images.githubusercontent.com/94758080/150690175-027fd4cc-0db6-4dd4-9b10-291cf1ac9644.jpg)
 
-<h1 align="left">Heyy There🖐, I'm Jeswin</h1>
+<h2 align="left">Heyy There🖐, I'm Jeswin</h2>
 <h3 align="left">Embedded Systems Enthusiast</h3>
 
 <br>
 <br>
 
 ###  I am an Electronics and Communication Student at Model Engineering College Trikkakara
-###  I am exploring the world of embedded software
+###  I am learning Embedded systems and IoT
 ###  I am also learning Unity Game engine
 
 
