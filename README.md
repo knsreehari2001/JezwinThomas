@@ -1,7 +1,7 @@
 ![jeswin banner](https://user-images.githubusercontent.com/94758080/150690175-027fd4cc-0db6-4dd4-9b10-291cf1ac9644.jpg)
 
 <h2 align="left">Heyy There🖐, I'm Jeswin</h2>
-<h3 align="left">Embedded Systems Enthusiast</h3>
+<h3 align="left">Embedded Systems Enthusiast and Designer😏 </h3>
 
 <br>
 <br>
