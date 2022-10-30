@@ -10,7 +10,6 @@
 ###  I am learning Embedded systems and IoT
 ###  I am also learning Unity Game engine
 
-###  Design posters and logos with Adobe Illustrator
 
 
 <br>
