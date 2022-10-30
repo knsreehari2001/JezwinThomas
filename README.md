@@ -11,6 +11,7 @@
 ###  I am also learning Unity Game engine
 
 ###  Design posters and logos with Adobe Illustrator
+###  Designed posters for various clubs in our college
 
 <br>
 <br>
